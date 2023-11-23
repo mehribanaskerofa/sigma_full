@@ -1,0 +1,429 @@
+.landing-footer {
+    padding: 70px 0 30px;
+    position: relative;
+    height: auto;
+    min-height: 0;
+  }
+  
+  .landing-footer a,
+  .landing-footer button {
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+  
+  /*.landing-footer button {*/
+  /*  letter-spacing: 1.7px;*/
+  /*}*/
+  
+  .landing-footer .bg-title, .landing-footer .container {
+    max-width: 100%;
+    padding: 0 15px;
+    margin: 0 auto;
+  }
+  
+  .footer-row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between
+  }
+  
+  .footer-col {
+    font-size: 16px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column
+  }
+  
+  .footer-col-left {
+    width: 27%;
+    padding-right: 15px
+  }
+  
+  .footer-col-left .footer-text {
+    margin-bottom: 35px
+  }
+  
+  .footer-col-right {
+    width: 25%;
+    padding-left: 15px
+  }
+  
+  .footer-col-right .footer-text {
+    margin-bottom: 30px
+  }
+  
+  .footer-col p {
+    margin-bottom: 25px
+  }
+  
+  .footer-col p:last-of-type {
+    margin-bottom: 0
+  }
+  
+  .footer-map {
+    width: 54%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    z-index: 1
+  }
+  
+  .footer-map .map-image {
+    -webkit-box-flex: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    margin: 10px;
+    position: relative;
+    z-index: -1;
+  }
+  
+  .footer-map .map-image img {
+    opacity: 1;
+    position: relative;
+    left: auto;
+    top: auto;
+    transform: none;
+    height: auto;
+  }
+  
+  .footer-map .map-image > div {
+    background-color: transparent !important
+  }
+  
+  .footer-map .map-nav {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap
+  }
+  
+  .footer-map .map-nav-sm {
+    display: none
+  }
+  
+  .footer-map .map-dropdown {
+    margin-bottom: 30px;
+    position: relative
+  }
+  
+  .footer-map .map-dropdown small {
+    font-size: 12px;
+    margin-bottom: 4px;
+    display: inline-block
+  }
+  
+  .footer-map .map-dropdown-toggle {
+    border-radius: 4px;
+    background-color: transparent;
+    padding: 14px 30px 14px 16px;
+    width: 100%;
+    text-align: left;
+    text-transform: uppercase;
+    font-size: 12px;
+    cursor: pointer;
+    position: relative
+  }
+  
+  .footer-map .map-dropdown-toggle:after {
+    content: '';
+    position: absolute;
+    right: 13px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 0;
+    height: 0;
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+  }
+  
+  .footer-map .map-dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    display: none;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .footer-map .map-dropdown-menu a,
+  .footer-map .map-dropdown-menu button {
+    font-size: 12px;
+    display: block;
+    padding: 8px 16px;
+    background: transparent;
+    border: 0;
+    text-transform: uppercase;
+    color: currentColor;
+  }
+  
+  .footer-map .map-link {
+    letter-spacing: 2.3px;
+    font-size: 14px;
+    padding: 10px 10px 0;
+    background: transparent;
+    border: 0;
+    text-transform: uppercase;
+    cursor: pointer;
+  }
+  
+  .footer-map .map-link,
+  .footer-map .map-link:focus {
+    outline: none;
+  }
+  
+  .footer-title {
+    font-size: 18px;
+    letter-spacing: 2.3px;
+    margin-bottom: 16px;
+    text-transform: uppercase;
+    display: block
+  }
+  
+  .footer-text {
+    -webkit-box-flex: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    line-height: 1.5;
+  }
+  
+  a.footer-contact-btn,
+  button.footer-contact-btn {
+    display: inline-block;
+    margin-bottom: 23px;
+    padding: 11px 17px;
+    line-height: 1;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 15px;
+    border-radius: 0;
+    font-weight: bold;
+    border: 0;
+  }
+  
+  .footer-copyright a {
+    display: inline-block;
+    font-size: 12px;
+    letter-spacing: 1.6px;
+    margin-bottom: 7px
+  }
+  
+  .footer-copyright p {
+    font-size: 12px;
+    letter-spacing: 1.6px
+  }
+  
+  .footer-social {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 200px;
+    flex-grow: 1
+  }
+  
+  .footer-social a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center
+  }
+  
+  .footer-social a:hover {
+    opacity: .8
+  }
+  
+  .f-icon {
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    text-indent: -99999px
+  }
+  
+  .f-icon:after {
+    content: '';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: center/contain no-repeat
+  }
+  
+  @media only screen and (min-width: 992px) {
+    .landing-footer .bg-title, .landing-footer .container {
+      padding: 0 15px
+    }
+  }
+  
+  @media all and (min-width: 1024px) {
+    .landing-footer .bg-title,
+    .landing-footer .container {
+      padding: 0 36px;
+      max-width: 1170px
+    }
+  
+    .footer-map {
+      flex-grow: 1
+    }
+  }
+  
+  @media only screen and (max-width: 1023px) {
+    .landing-footer {
+      padding: 60px 0 110px
+    }
+  
+    .footer-col {
+      font-size: 14px
+    }
+  
+    .footer-col-left {
+      width: 175px;
+      flex: none
+    }
+  
+    .footer-title {
+      font-size: 16px
+    }
+  
+    a.footer-contact-btn,
+    button.footer-contact-btn {
+      font-size: 12px;
+      padding: 10px 23px
+    }
+  
+    .footer-copyright {
+      position: absolute;
+      bottom: 30px;
+      left: 50%;
+      transform: translateX(-50%);
+      text-align: center;
+      width: 100%
+    }
+  
+    .footer-copyright a {
+      margin-bottom: 5px
+    }
+  
+    .f-icon:after {
+      width: 16px;
+      height: 16px
+    }
+  }
+  
+  @media only screen and (max-width: 639px) {
+    .footer-row {
+      -ms-flex-wrap: wrap;
+      flex-wrap: wrap
+    }
+  
+    .footer-col {
+      width: 100%;
+      padding: 0
+    }
+  
+    .footer-col p {
+      margin-bottom: 15px
+    }
+  
+    .footer-map {
+      width: 100%;
+      height: 300px;
+      margin-bottom: 30px
+    }
+  
+    a.footer-contact-btn,
+    button.footer-contact-btn {
+      margin-bottom: 0
+    }
+  
+    .footer-buttons {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-align: center;
+      -ms-flex-align: center;
+      align-items: center;
+      -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+      justify-content: space-between
+    }
+  
+    .footer-social {
+      margin-left: 20px
+    }
+  
+    .footer-social a {
+      padding: 5px
+    }
+  }
+  
+  @media only screen and (max-width: 480px) {
+    .footer-col-left .footer-text {
+      margin-bottom: 25px
+    }
+  
+    .footer-col-right .footer-text {
+      margin-bottom: 20px;
+      width: 80%;
+      font-size: 14px
+    }
+  
+    .footer-col p {
+      margin-bottom: 20px
+    }
+  
+    .footer-map {
+      height: 320px
+    }
+  
+    .footer-map .map-image {
+      margin: 0
+    }
+  
+    .footer-map .map-nav-lg {
+      display: none
+    }
+  
+    .footer-map .map-nav-sm {
+      display: block
+    }
+  
+    a.footer-contact-btn,
+    button.footer-contact-btn {
+      width: 112px;
+      padding: 12px 15px;
+      text-align: center
+    }
+  
+    .footer-social {
+      width: 45%;
+      margin-left: 15px
+    }
+  
+    .f-icon:after {
+      width: 18px;
+      height: 18px
+    }
+  }
+  

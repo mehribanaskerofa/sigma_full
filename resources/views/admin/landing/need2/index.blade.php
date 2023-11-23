@@ -1,0 +1,36 @@
+@extends('admin.layouts.admin',['title'=>'Section Need2'])
+@section('content')
+
+    <?php  $routeName='admin.need2' ?><br>
+    @if(count($models)==0)
+        <a class="btn btn-primary my-1" href="{{route($routeName.'.create')}}">Add</a>
+    @endif
+    <br>
+    <div class="card ">
+        <div class="card-body">
+            <table class="table table-bordered" style="text-align: center">
+                <thead>
+                <tr>
+                    <th style="width: 10px">#</th>
+                    <th>Title</th>
+                    <th style="width: 50px">Edit</th>
+                </tr>
+                </thead>
+                <tbody>
+                @foreach($models  as $model)
+                    <tr>
+                        <td>{{$model->id}}</td>
+                        <td>{{$model->title}}</td>
+                        <td>
+                            <a href="{{route($routeName.'.edit',$model->id)}}" class="btn btn-warning">Edit</a>
+                        </td>
+
+                    </tr>
+                @endforeach
+                </tbody>
+            </table>
+            <br>
+            {{$models->links('pagination::bootstrap-4')}}
+        </div>
+    </div>
+@endsection

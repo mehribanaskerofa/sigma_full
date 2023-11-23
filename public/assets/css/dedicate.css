@@ -1,0 +1,819 @@
+/* .icon-dots-white {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#four-dots")
+  }
+
+  .icon-dots-red {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#four-dots-red")
+  }
+
+  .icon-play-sm {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#play-sm")
+  }
+
+  .icon-slide-prev {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#slider-left");
+  }
+
+  .icon-media {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#media-advertising")
+  }
+
+  .icon-automotive {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#automotive")
+  }
+
+  .icon-healthcare {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#healthcare")
+  }
+
+  .icon-energy {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#electricity")
+  }
+
+  .icon-finance {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#banking")
+  }
+
+  .icon-information {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#information")
+  }
+
+  .icon-aviation {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#aviation")
+  }
+
+  .icon-construction {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#real-estate")
+  }
+
+  .icon-gaming {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#gaming")
+  }
+
+  .icon-telecom {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#telecom")
+  }
+
+  .icon-react {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#react")
+  }
+
+  .icon-microsoft-net {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#microsoft-net")
+  }
+
+  .icon-swift {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#swift")
+  }
+
+  .icon-react-native {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#react")
+  }
+
+  .icon-vertica {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#vertica")
+  }
+
+  .icon-ar-core {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#ar-core")
+  }
+
+  .icon-hadoop {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#hadoop")
+  }
+
+  .icon-vue {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#vue")
+  }
+
+  .icon-dot-net {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#dot-net")
+  }
+
+  .icon-kotlin {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#kotlin")
+  }
+
+  .icon-flutter {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#flutter")
+  }
+
+  .icon-objectice-c {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#objectice-c")
+  }
+
+  .icon-unity {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#unity")
+  }
+
+  .icon-spark {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#spark")
+  }
+
+  .icon-js {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#js")
+  }
+
+  .icon-java {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#java")
+  }
+
+  .icon-angular {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#angular")
+  }
+
+  .icon-php {
+    background-image: url("/assets/images/1440.jpg")
+  }
+
+  .icon-python {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#python")
+  }
+
+  .icon-kafka {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#kafka")
+  }
+
+  .icon-mem-sql {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#mem-sql")
+  } */
+/*
+  .f-icon-footer-fb:after {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#footer-fb")
+  }
+
+  .f-icon-footer-instagram:after {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#footer-instagram")
+  }
+
+  .f-icon-footer-linkedin:after {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#footer-linkedin")
+  }
+
+  .f-icon-footer-tw:after {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#footer-tw")
+  }
+
+  .f-icon-footer-youtube:after {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#footer-youtube")
+  } */
+
+  .bg-media-blur:after {
+    background: url("../images/blur.png") center/cover no-repeat
+  }
+
+  /* [class^=abstract-dots].abstract-dots-1 {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#abstract-dots-1")
+  }
+
+  [class^=abstract-dots].abstract-dots-1.red {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#abstract-dots-1-red")
+  }
+
+  [class^=abstract-dots].abstract-dots-2 {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#abstract-dots-2")
+  }
+
+  [class^=abstract-dots].abstract-dots-2.red {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#abstract-dots-2-red")
+  }
+
+  [class^=abstract-dots].abstract-dots-3 {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#abstract-dots-3")
+  }
+
+  [class^=abstract-dots].abstract-dots-3.red {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#abstract-dots-3-red")
+  }
+
+  [class^=abstract-dots].abstract-dots-4 {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#abstract-dots-4")
+  }
+
+  [class^=abstract-dots].abstract-dots-4.red {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#abstract-dots-4-red")
+  }
+
+  [class^=abstract-dots].abstract-dots-5 {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#abstract-dots-5")
+  }
+
+  [class^=abstract-dots].abstract-dots-5.red {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#abstract-dots-5-red")
+  }
+
+  [class^=abstract-dots].abstract-dots-6 {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#abstract-dots-6")
+  }
+
+  [class^=abstract-dots].abstract-dots-6.red {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#abstract-dots-6-red")
+  }
+
+  [class^=abstract-dots].abstract-dots-7 {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#abstract-dots-7")
+  }
+
+  [class^=abstract-dots].abstract-dots-7.red {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#abstract-dots-7-red")
+  }
+
+  [class^=abstract-dots].abstract-dots-8 {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#abstract-dots-8")
+  }
+
+  [class^=abstract-dots].abstract-dots-8.red {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#abstract-dots-8-red")
+  }
+
+  [class^=abstract-dots].abstract-dots-9 {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#abstract-dots-9")
+  }
+
+  [class^=abstract-dots].abstract-dots-9.red {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/sprite/sprite.svg#abstract-dots-9-red")
+  } */
+
+  .scroll-down-btn:after {
+    background: url("../images/white-drop.svg") center/contain no-repeat;
+  }
+/*
+  .viewport-1.bg-loaded .bg-media {
+    background: transparent url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/VIDEO_BACKGROUND@1x.jpg") top center/cover no-repeat;
+    background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/VIDEO_BACKGROUND@1x.webp") 1x)
+  }
+
+  .viewport-2.bg-loaded .bg-media-img,
+  .viewport-3.bg-loaded .bg-media-img {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/08-expertise-background-photo.jpg");
+    background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/08-expertise-background-photo.webp") 1x)
+  }
+
+  .viewport-6.bg-loaded .bg-media-img,
+  .viewport-7.bg-loaded .bg-media-img,
+  .viewport-8.bg-loaded .bg-media-img,
+  .viewport-9.bg-loaded .bg-media-img {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/08-expertise-background-photo.jpg");
+    background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/08-expertise-background-photo.webp") 1x)
+  }
+
+  .viewport-10.bg-loaded .bg-media-img {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/11-exxpertise-action.jpg");
+    background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/11-exxpertise-action.webp") 1x)
+  }
+
+  .viewport-16.bg-loaded .bg-media-img,
+  .viewport-17.bg-loaded .bg-media-img {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/09-testimonials-background-photo.jpg");
+    background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/09-testimonials-background-photo.webp") 1x)
+  }
+
+  .viewport-18.bg-loaded .team-bg-carousel .slide-1 {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/13-our-team.jpg");
+    background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/13-our-team.webp") 1x)
+  }
+
+  .viewport-18.bg-loaded .team-bg-carousel .slide-2 {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/14-our-team.jpg");
+    background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/14-our-team.webp") 1x)
+  }
+
+  .viewport-18.bg-loaded .team-bg-carousel .slide-3 {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/15-our-team.jpg");
+    background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/15-our-team.webp") 1x)
+  }
+
+  .viewport-18.bg-loaded .team-bg-carousel .slide-4 {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/16-our-team.jpg");
+    background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/16-our-team.webp") 1x)
+  }
+
+  .viewport-18.bg-loaded .team-bg-carousel .slide-5 {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/17-our-team.jpg");
+    background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/17-our-team.webp") 1x)
+  }
+
+  .viewport-18.bg-loaded .team-bg-carousel .slide-6 {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/18-Our-team@1x.jpg");
+    background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/18-Our-team@1x.webp") 1x)
+  }
+
+  .viewport-19.bg-loaded .bg-media-img {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/10-you-are-alongside-background-photo.jpg");
+    background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/10-you-are-alongside-background-photo.webp") 1x)
+  }
+
+  .viewport-20.bg-loaded .bg-media-img {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/19-let-us-discuss.jpg");
+    background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/19-let-us-discuss.webp") 1x)
+  } */
+
+  .dropdown-container .caption:after {
+    background: url("../images/dropdown-arrow.svg") center/cover no-repeat;
+  }
+
+  .dropdown-works .dropdown.opened .caption:after {
+    background-image: url("../images/dropdown-arrow.svg")
+  }
+
+  .dropdown-works .caption:after {
+    background-image: url("../images/dropdown-arrow.svg")
+  }
+
+  .dropdown-processes .caption:after {
+    background-image: url("../images/dropdown-arrow.svg");
+  }
+
+  /* .viewport-5 {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/outsourcing-team-options-bg.jpg");
+    background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/outsourcing-team-options-bg.webp") 1x)
+  } */
+
+  .viewport-5 .bg-media-blur:after {
+    background: url("../images/blur-light.png") center/cover no-repeat
+  }
+/* bura */
+  .viewport-11 .starts-chevron {
+    background: url("../images/white-ch.svg") center/100% no-repeat;
+  }
+
+  .viewport-11 .starts-col:nth-of-type(1) .starts-chevron {
+    background-image: url("../images/red-ch.svg");
+  }
+
+  /* .viewport-15 {
+    background: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/image-768-2.jpg") bottom center/100% no-repeat;
+    background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/image-768-2.webp") 1x);
+  } */
+
+  .viewport-15 .bg-media-blur:after {
+    background-image: url("../images/blur-light.png")
+  }
+
+  #contact-us .modal-header .close {
+    background: url("../images/close.svg") 0/contain no-repeat;
+  }
+
+  #screen-10 .sf-fixed .bg-media-blur:after,
+  #screen-15 .sf-fixed .bg-media-blur:after,
+  #screen-18 .sf-fixed .bg-media-blur:after,
+  #screen-20 .sf-fixed .bg-media-blur:after {
+    background-image: url("../images/blur.png")
+  }
+
+  #screen-15 .sf-fixed .bg-media-blur:after {
+    background-image: url("../images/blur-light.png")
+  }
+
+  /* .sf-fixed .team-bg-carousel .slide-1 {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/13-our-team.jpg")
+  }
+
+  .sf-fixed .team-bg-carousel .slide-2 {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/14-our-team.jpg")
+  }
+
+  .sf-fixed .team-bg-carousel .slide-3 {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/15-our-team.jpg")
+  }
+
+  .sf-fixed .team-bg-carousel .slide-4 {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/16-our-team.jpg")
+  }
+
+  .sf-fixed .team-bg-carousel .slide-5 {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/17-our-team.jpg")
+  }
+
+  .sf-fixed .team-bg-carousel .slide-6 {
+    background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/18-Our-team@1x.jpg")
+  } */
+
+  @media all and (-webkit-min-device-pixel-ratio: 2) and (min-width: 640px) {
+    /* .viewport-10.bg-loaded .bg-media-img {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/11-exxpertise-action2x_768.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/11-exxpertise-action@2x_768.webp") 1x)
+    }
+
+    .viewport-15.bg-loaded .bg-media-img {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/12-organization-action2x_768.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/12-organization-action2x_768.webp") 1x)
+    }
+
+    .viewport-16.bg-loaded .bg-media-img,
+    .viewport-17.bg-loaded .bg-media-img {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/09-testimonials-background-photo2x_768.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/09-testimonials-background-photo2x_768.webp") 1x)
+    }
+
+    .viewport-18.bg-loaded .team-bg-carousel .slide-1 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/13-our-team2x_768.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/13-our-team2x_768.webp") 1x)
+    }
+
+    .viewport-18.bg-loaded .team-bg-carousel .slide-2 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/14-our-team2x_768.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/14-our-team2x_768.webp") 1x)
+    }
+
+    .viewport-18.bg-loaded .team-bg-carousel .slide-3 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/15-our-team2x_768.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/15-our-team2x_768.webp") 1x)
+    }
+
+    .viewport-18.bg-loaded .team-bg-carousel .slide-4 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/16-our-team2x_768.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/16-our-team2x_768.webp") 1x)
+    }
+
+    .viewport-18.bg-loaded .team-bg-carousel .slide-5 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/17-our-team2x_768.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/17-our-team2x_768.webp") 1x)
+    }
+
+    .viewport-18.bg-loaded .team-bg-carousel .slide-6 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/18-our-team2x_768.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/18-our-team2x_768.webp") 1x)
+    }
+
+    .viewport-19.bg-loaded .bg-media-img {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/10-you-are-alongside-background-photo2x_768.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/10-you-are-alongside-background-photo2x_768.webp") 1x)
+    }
+
+    .viewport-20.bg-loaded .bg-media-img {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/19-let-us-discuss2x_768.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/19-let-us-discuss2x_768.webp") 1x)
+    }
+
+    .sf-fixed .team-bg-carousel .slide-1 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/13-our-team2x_768.jpg")
+    }
+
+    .sf-fixed .team-bg-carousel .slide-2 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/14-our-team2x_768.jpg")
+    }
+
+    .sf-fixed .team-bg-carousel .slide-3 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/15-our-team2x_768.jpg")
+    }
+
+    .sf-fixed .team-bg-carousel .slide-5 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/17-our-team2x_768.jpg")
+    }
+
+    .sf-fixed .team-bg-carousel .slide-6 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/18-our-team2x_768.jpg")
+    } */
+  }
+
+  @media all and (min-width: 768px) {
+    /* .viewport-1.bg-loaded .bg-media {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/VIDEO_BACKGROUND_768@1x.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/VIDEO_BACKGROUND_768@1x.webp") 1x)
+    } */
+  }
+
+  @media all and (-webkit-min-device-pixel-ratio: 2) and (min-width: 768px) {
+    /* .viewport-10.bg-loaded .bg-media-img {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/11-exxpertise-action2x_1024.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/11-exxpertise-action@2x_1024.webp") 1x)
+    }
+
+    .viewport-15.bg-loaded .bg-media-img {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/12-organization-action2x_1024.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/12-organization-action2x_1024.webp") 1x)
+    }
+
+    .viewport-16.bg-loaded .bg-media-img,
+    .viewport-17.bg-loaded .bg-media-img {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/09-testimonials-background-photo2x_1024.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/09-testimonials-background-photo2x_1024.webp") 1x)
+    }
+
+    .viewport-18.bg-loaded .team-bg-carousel .slide-1 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/13-our-team2x_1024.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/13-our-team2x_1024.webp") 1x)
+    }
+
+    .viewport-18.bg-loaded .team-bg-carousel .slide-2 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/14-our-team2x_1024.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/14-our-team2x_1024.webp") 1x)
+    }
+
+    .viewport-18.bg-loaded .team-bg-carousel .slide-3 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/15-our-team2x_1024.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/15-our-team2x_1024.webp") 1x)
+    }
+
+    .viewport-18.bg-loaded .team-bg-carousel .slide-4 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/16-our-team2x_1024.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/16-our-team2x_1024.webp") 1x)
+    }
+
+    .viewport-18.bg-loaded .team-bg-carousel .slide-5 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/17-our-team2x_1024.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/17-our-team2x_1024.webp") 1x)
+    }
+
+    .viewport-18.bg-loaded .team-bg-carousel .slide-6 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/18-our-team2x_1024.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/18-our-team2x_1024.webp") 1x)
+    }
+
+    .viewport-19.bg-loaded .bg-media-img {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/10-you-are-alongside-background-photo2x_1024.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/10-you-are-alongside-background-photo2x_1024.webp") 1x)
+    }
+
+    .viewport-20.bg-loaded .bg-media-img {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/19-let-us-discuss2x_1024.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/19-let-us-discuss2x_1024.webp") 1x)
+    }
+
+    .sf-fixed .team-bg-carousel .slide-1 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/13-our-team2x_1024.jpg");
+    }
+
+    .sf-fixed .team-bg-carousel .slide-2 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/14-our-team2x_1024.jpg");
+    }
+
+    .sf-fixed .team-bg-carousel .slide-3 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/15-our-team2x_1024.jpg");
+    }
+
+    .sf-fixed .team-bg-carousel .slide-5 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/17-our-team2x_1024.jpg");
+    }
+
+    .sf-fixed .team-bg-carousel .slide-6 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/18-our-team2x_1024.jpg");
+    }
+  }
+
+  @media all and (min-width: 1024px) {
+
+
+    .viewport-15.bg-loaded .bg-media-img {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/12-organization-action.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/12-organization-action.webp") 1x)
+    } */
+
+
+  }
+
+  @media all and (-webkit-min-device-pixel-ratio: 2) and (min-width: 1024px) {
+    /* .viewport-10.bg-loaded .bg-media-img {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/11-exxpertise-action2x_1440.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/11-exxpertise-action@2x_1440.webp") 1x)
+    }
+
+    .viewport-15.bg-loaded .bg-media-img {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/12-organization-action2x_1440.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/12-organization-action2x_1440.webp") 1x)
+    }
+
+    .viewport-16.bg-loaded .bg-media-img,
+    .viewport-17.bg-loaded .bg-media-img {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/09-testimonials-background-photo2x_1440.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/09-testimonials-background-photo2x_1440.webp") 1x)
+    }
+
+    .viewport-18.bg-loaded .team-bg-carousel .slide-1 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/13-our-team2x_1440.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/13-our-team2x_1440.webp") 1x)
+    }
+
+    .viewport-18.bg-loaded .team-bg-carousel .slide-2 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/14-our-team2x_1440.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/14-our-team2x_1440.webp") 1x)
+    }
+
+    .viewport-18.bg-loaded .team-bg-carousel .slide-3 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/15-our-team2x_1440.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/15-our-team2x_1440.webp") 1x)
+    }
+
+    .viewport-18.bg-loaded .team-bg-carousel .slide-4 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/16-our-team2x_1440.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/16-our-team2x_1440.webp") 1x)
+    }
+
+    .viewport-18.bg-loaded .team-bg-carousel .slide-5 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/17-our-team2x_1440.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/17-our-team2x_1440.webp") 1x)
+    }
+
+    .viewport-18.bg-loaded .team-bg-carousel .slide-6 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/18-our-team2x_1440.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/18-our-team2x_1440.webp") 1x)
+    }
+
+    .viewport-19.bg-loaded .bg-media-img {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/10-you-are-alongside-background-photo2x_1440.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/10-you-are-alongside-background-photo2x_1440.webp") 1x)
+    }
+
+    .viewport-20.bg-loaded .bg-media-img {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/19-let-us-discuss2x_1440.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/19-let-us-discuss2x_1440.webp") 1x)
+    }
+
+    .sf-fixed .team-bg-carousel .slide-1 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/13-our-team2x_1440.jpg");
+    }
+
+    .sf-fixed .team-bg-carousel .slide-2 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/14-our-team2x_1440.jpg");
+    }
+
+    .sf-fixed .team-bg-carousel .slide-3 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/15-our-team2x_1440.jpg");
+    }
+
+    .sf-fixed .team-bg-carousel .slide-5 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/17-our-team2x_1440.jpg");
+    }
+
+    .sf-fixed .team-bg-carousel .slide-6 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/18-our-team2x_1440.jpg");
+    } */
+  }
+
+  @media all and (-webkit-min-device-pixel-ratio: 2) and (min-width: 1440px) {
+    /* .viewport-10.bg-loaded .bg-media-img {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/11-exxpertise-action@2x.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/11-exxpertise-action@2x.webp") 1x)
+    }
+
+    .viewport-15.bg-loaded .bg-media-img {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/12-organization-action@2x.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/12-organization-action@2x.webp") 1x)
+    }
+
+    .viewport-16.bg-loaded .bg-media-img,
+    .viewport-17.bg-loaded .bg-media-img {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/09-testimonials-background-photo@2x.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/09-testimonials-background-photo@2x.webp") 1x)
+    }
+
+    .viewport-18.bg-loaded .team-bg-carousel .slide-1 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/13-our-team@2x.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/13-our-team@2x.webp") 1x)
+    }
+
+    .viewport-18.bg-loaded .team-bg-carousel .slide-2 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/14-our-team@2x.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/14-our-team@2x.webp") 1x)
+    }
+
+    .viewport-18.bg-loaded .team-bg-carousel .slide-3 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/15-our-team@2x.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/15-our-team@2x.webp") 1x)
+    }
+
+    .viewport-18.bg-loaded .team-bg-carousel .slide-4 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/16-our-team@2x.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/16-our-team@2x.webp") 1x)
+    }
+
+    .viewport-18.bg-loaded .team-bg-carousel .slide-5 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/17-our-team@2x.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/17-our-team@2x.webp") 1x)
+    }
+
+    .viewport-18.bg-loaded .team-bg-carousel .slide-6 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/18-our-team@2x.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/18-our-team@2x.webp") 1x)
+    }
+
+    .viewport-19.bg-loaded .bg-media-img {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/10-you-are-alongside-background-photo@2x.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/10-you-are-alongside-background-photo@2x.webp") 1x)
+    }
+
+    .viewport-20.bg-loaded .bg-media-img {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/19-let-us-discuss@2x.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/19-let-us-discuss@2x.webp") 1x)
+    }
+
+    .sf-fixed .team-bg-carousel .slide-1 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/13-our-team@2x.jpg");
+    }
+
+    .sf-fixed .team-bg-carousel .slide-2 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/14-our-team@2x.jpg");
+    }
+
+    .sf-fixed .team-bg-carousel .slide-3 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/15-our-team@2x.jpg");
+    }
+
+    .sf-fixed .team-bg-carousel .slide-5 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/17-our-team@2x.jpg");
+    }
+
+    .sf-fixed .team-bg-carousel .slide-6 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/18-our-team@2x.jpg");
+    } */
+  }
+
+  @media all and (max-width: 1023px) {
+    body:before {
+      background: transparent url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/GradientBackground@1x.jpg") center/cover no-repeat fixed;
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/GradientBackground@1x.webp") 1x)
+    }
+  }
+
+  /* @media (-webkit-min-device-pixel-ratio: 2) {
+
+    .viewport-2.bg-loaded .bg-media-img,
+    .viewport-3.bg-loaded .bg-media-img {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/08-expertise-background-photo@2x.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/08-expertise-background-photo@2x.webp") 1x)
+    }
+
+    .viewport-6.bg-loaded .bg-media-img,
+    .viewport-7.bg-loaded .bg-media-img,
+    .viewport-8.bg-loaded .bg-media-img,
+    .viewport-9.bg-loaded .bg-media-img {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/08-expertise-background-photo@2x.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/08-expertise-background-photo@2x.webp") 1x)
+    }
+
+    .viewport-10.bg-loaded .bg-media-img {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/11-exxpertise-action@2x.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/11-exxpertise-action@2x.webp") 1x)
+    }
+
+    .viewport-16.bg-loaded .bg-media-img,
+    .viewport-17.bg-loaded .bg-media-img {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/09-testimonials-background-photo@2x.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/09-testimonials-background-photo@2x.webp") 1x)
+    } */
+
+    /* .viewport-18.bg-loaded .team-bg-carousel .slide-1 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/13-our-team.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/13-our-team.webp") 1x)
+    }
+
+    .viewport-18.bg-loaded .team-bg-carousel .slide-2 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/14-our-team@2x.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/14-our-team@2x.webp") 1x)
+    }
+
+    .viewport-18.bg-loaded .team-bg-carousel .slide-3 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/15-our-team@2x.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/15-our-team@2x.webp") 1x)
+    }
+
+    .viewport-18.bg-loaded .team-bg-carousel .slide-4 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/16-our-team@2x.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/16-our-team@2x.webp") 1x)
+    }
+
+    .viewport-18.bg-loaded .team-bg-carousel .slide-5 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/17-our-team@2x.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/17-our-team@2x.webp") 1x)
+    }
+
+    .viewport-18.bg-loaded .team-bg-carousel .slide-6 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/18-our-team@2x.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/18-our-team@2x.webp") 1x)
+    } */
+
+    /* .viewport-19.bg-loaded .bg-media-img {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/10-you-are-alongside-background-photo@2x.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/10-you-are-alongside-background-photo@2x.webp") 1x)
+    }
+
+    .viewport-20.bg-loaded .bg-media-img {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/19-let-us-discuss@2x.jpg");
+      background-image: -webkit-image-set(url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/19-let-us-discuss@2x.webp") 1x)
+    } */
+
+    /* .sf-fixed .team-bg-carousel .slide-1 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/13-our-team.jpg");
+    }
+
+    .sf-fixed .team-bg-carousel .slide-2 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/14-our-team2x_640.jpg");
+    }
+
+    .sf-fixed .team-bg-carousel .slide-3 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/15-our-team@2x_640.jpg");
+    }
+
+    .sf-fixed .team-bg-carousel .slide-4 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/16-our-team@2x.jpg");
+    }
+
+    .sf-fixed .team-bg-carousel .slide-5 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/17-our-team2x_640.jpg");
+    }
+
+    .sf-fixed .team-bg-carousel .slide-6 {
+      background-image: url("https://cdn.sigma.software/landing/dedicated-software-development-team/assets/img/18-our-team2x_640.jpg");
+    } */
+  /* } */
